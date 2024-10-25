@@ -1,7 +1,7 @@
 <h1 align="center"> Projeto Travelgram </h1>
 
 <p align="center">
-O Projeto é uma criação de uma página de fotos colocando em prática algumas tecnologia que estou estudando na formação FullStack pela a Rocketseat. Lembrando <br/>
+O Projeto é uma criação de uma página de fotos colocando em prática algumas tecnologia que estou estudando na formação FullStack pela a Rocketseat. <br/>
 <a href="https://app.rocketseat.com.br/">Estude esse projeto em formato de vídeo clicando aqui.</a>
 </p>
 
